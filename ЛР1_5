@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+       <table Border = 1>
+            <tr>
+                <td>Укроп</td>
+                <td>Дорога</td>
+                <td>Утюг</td>
+            </tr>
+            <tr>
+                <td>Бытие</td>
+                <td>Жёлтый</td>
+                <td>Бегать</td>
+            </tr>
+            <tr>
+                <td>Лампа</td>
+                <td>Страна</td>
+                <td>Песок</td>
+            </tr>
+        </table>
+         <table Border = 1>
+            <tr>
+                <td>1</td>
+                <td colspan="2">2</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>7</td>
+                <td>8</td>
+            </tr>
+        </table>
+        <table Border = 1>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td rowspan="2">4</td>
+                <td>5</td>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>8</td>
+            </tr>
+        </table>
+        <table Border = 1>
+            <tr>
+                <th>Имя</th>
+                <th>Сколько лет</th>
+                <th>Сколько конфет</th>
+                <th>Сколько яблок</th>
+            </tr>
+            <tr>
+                <td>Вася</td>
+                <td>17</td>
+                <td>3</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Петя</td>
+                <td>18</td>
+                <td>2</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>Шура</td>
+                <td>17</td>
+                <td>3</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Даня</td>
+                <td>16</td>
+                <td>4</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Герман</td>
+                <td>45</td>
+                <td>75</td>
+                <td>0</td>
+            </tr>
+        </table>
+     </body>
+</html>
