@@ -11,13 +11,14 @@
         </form>
         <form>
            <p> Число: <input type="number"  /></p>
-            <p><input type="checkbox" />
-                Вам уже есть 18 лет</p>
+            <p><label><input type="checkbox" />
+            Вам уже есть 18 лет</label></p>
             <input type="submit" value="Ок!" />
         </form>
         <h1>
         Регистрация
         </h1>
+      <form>
        <p>
                 Пол:
                 <input name="pol" type="radio" required />
@@ -31,7 +32,7 @@
             <p>Имя: <input type="text" required minlength="3" /></p>
             <p>Отчество: <input type="text" minlength="3" /></p>
             <p>Возраст: <input type="number" required /></p>
-            <p>Телефон: <input type="tel" placeholder="8 (912) 345-67-89" required /></p>
+            <p>Телефон: <input type="tel" placeholder="+7 (912) 345-67-89" required /></p>
             <p>E-mail: <input type="email" placeholder="example@test.com" required /></p>
             <p>Группа:
                 <select required>
@@ -44,10 +45,11 @@
                 </select></p>
                 <p>Пароль: <input type="password" required /></p>
             <p>Повторите свой пароль: <input type="password" required /></p>
-             <p><input type="checkbox" required />
-             Учусь платно</p>
+             <p><label><input type="checkbox" required>
+             Учусь платно</label></p><input/>
              <p>
              <input type="submit" value="Зарегистрироваться" />
              </p>
+                   </form>
      </body>
 </html>
