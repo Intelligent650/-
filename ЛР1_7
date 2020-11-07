@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+      <video controls>
+            <source
+                src="https://cs1-60v4.vkuservideo.net/p24/9179861b6a2c.360.mp4?extra=lheOItf_3anXj4RaPkexvxI8QAlnbJeK5HSSS3MdAC0g94VPGWVybtoYsRmqVb7aNsbf0g1Xhm__qTkEcODYMflEQVoU1YGpk7ErafKwno4zUsGvrQUj0xlRQng_ndc7ONHsNJszWxj0GSsdWdC74r5s&c_uniq_tag=92G_Y9BcdDX6F5IhLvpbekqFsH0t6n7k7vAvyxJ2LtM"
+                type="video/mp4"
+            />
+        </video>
+        <audio controls>
+    <source src="https://malachite-lyrics.org/music/135730_de.lyrsense.com.mp3">
+    </audio>
+     </body>
+</html>
